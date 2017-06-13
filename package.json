@@ -14,7 +14,7 @@
     "yeoman-generator"
   ],
   "author": "zhixia",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/zhixia/generator-alinkFusion/issues"
   },
